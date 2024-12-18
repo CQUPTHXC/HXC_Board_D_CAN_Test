@@ -1,2 +1,2 @@
-# ESP32_platformio_temple_project
-HXC战队标准esp32项目模板工程
+# HXC_Board_D_CAN_Test_01
+基于boardD编写的CAN消息收发测试工程01
