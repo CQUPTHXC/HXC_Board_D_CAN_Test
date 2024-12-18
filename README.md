@@ -1,2 +1,2 @@
-# xingjie
+# HXC_Board_D_CAN_Test_01
 基于boardD编写的can收发工程
